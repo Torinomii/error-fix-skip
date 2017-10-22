@@ -1,4 +1,4 @@
-![image](.../image/cropped.jpg)
+![image](https://raw.githubusercontent.com/Torinomii/error-fix-skip/master/image/cropped.jpg)
 Linux 查看内存的插槽数，已经使用多少插槽。每条内存多大，已使用内存多大
 1.dmidecode|grep -P -A5 "Memory\s+Device"|grep Size|grep -v Range
 2.Size:2048MB
