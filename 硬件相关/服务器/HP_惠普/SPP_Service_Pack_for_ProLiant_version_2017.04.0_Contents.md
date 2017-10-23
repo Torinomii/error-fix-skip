@@ -1,6 +1,6 @@
 SPP / Service Pack for ProLiant version 2017.04.0 Contents
 固件升级包....
-下载后尽量使用ILO加载SPP.iso , ......
+下载后尽量使用ILO加载SPP.iso , 尝试过写入U盘,会在加载kernel时出现问题.具体问题待补充.
 下载地址: http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx
 
 支持型号下列/或这个 https://raw.githubusercontent.com/Torinomii/error-fix-skip/master/%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/%E6%9C%8D%E5%8A%A1%E5%99%A8/HP_%E6%83%A0%E6%99%AE/contents.html
