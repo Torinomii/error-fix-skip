@@ -2,7 +2,7 @@ SPP / Service Pack for ProLiant version 2017.04.0 Contents
 固件升级包....
 下载地址: http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx
 
-支持型号/或这个 (./contents.html)
+支持型号/或这个 (http://./contents.html)
 
 Service Pack for ProLiant version 2017.04.0 Contents
 
